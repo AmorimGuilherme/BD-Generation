@@ -21,5 +21,3 @@ SELECT * FROM tb_colaboradores WHERE salario > 2000;
 SELECT * FROM tb_colaboradores WHERE salario < 2000;
 UPDATE tb_colaboradores SET salario = 1820.1 WHERE id = 1; 
 
-
-
